@@ -1,0 +1,16 @@
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\AES_Algorithm.exe
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\AES_Algorithm.deps.json
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\AES_Algorithm.runtimeconfig.json
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\AES_Algorithm.runtimeconfig.dev.json
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\AES_Algorithm.dll
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\ref\AES_Algorithm.dll
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\bin\Debug\net5.0\AES_Algorithm.pdb
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.csproj.AssemblyReference.cache
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.AssemblyInfoInputs.cache
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.AssemblyInfo.cs
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.dll
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\ref\AES_Algorithm.dll
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.pdb
+C:\Users\iredc\source\repos\AES_Algorithm\AES_Algorithm\obj\Debug\net5.0\AES_Algorithm.genruntimeconfig.cache
